@@ -1,4 +1,4 @@
-# GamingSteamScrapper
+# Games Scraper
 
 ## Pre-requisites
 
